@@ -15,8 +15,8 @@ const siteName = process.env.SITE_NAME || 'BossyTV';
 
 // manifest.json 模板
 const manifestTemplate = {
-  "name": sitename,
-  "short_name": sitename,
+  "name": siteName,
+  "short_name": siteName,
   "description": "影视聚合",
   "start_url": "/",
   "scope": "/",
