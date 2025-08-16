@@ -103,7 +103,7 @@
     { "name": "悬疑", "type": "movie", "query": "悬疑" },
     { "name": "恐怖", "type": "movie", "query": "恐怖" },
     { "name": "治愈", "type": "movie", "query": "治愈" },
-    { "name": "2025", "type": "movie", "query": "2025" },
+    { "name": "三级", "type": "movie", "query": "三级" },
     { "name": "情色", "type": "movie", "query": "情色" },
 
     { "name": "热门", "type": "tv", "query": "热门" },
