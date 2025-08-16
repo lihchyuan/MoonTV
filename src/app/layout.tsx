@@ -27,7 +27,7 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 
   return {
-    title: siteName,
+    title: 'BossyTV',
     description: '影视聚合',
     manifest: '/manifest.json',
   };
